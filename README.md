@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Computer Science Student. Currently learning Java and Python<br>
+🌱 Computer Science Student. Currently learning Java, Python and getting familiar with databases.n<br>
 
 
 # 💻 Tech Stack:
