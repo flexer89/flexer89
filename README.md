@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Computer Science Student. Currently learning C++ and Python<br>
+🌱 Computer Science Student. Currently learning Java and Python<br>
 
 
 # 💻 Tech Stack:
