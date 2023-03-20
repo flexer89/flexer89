@@ -1,5 +1,6 @@
 # 💫 About Me:
-🌱 Computer Science Student. Currently learning Java, Python and getting familiar with databases.n<br>
+🌱 Computer Science Student. Currently learning Java, Python and getting familiar with databases<br>
+🟢 Currently working on JetPunk clone
 
 
 # 💻 Tech Stack:
