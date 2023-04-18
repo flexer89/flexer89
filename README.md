@@ -4,8 +4,6 @@
   - Java, <br>
   - Python <br>
   - databases <br>
-  
-🟢 Currently working on JetPunk clone <br>
 
 
 # 💻 Tech Stack:
